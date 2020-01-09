@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 ## Features
 - Pre-trained model is included if wanted to conduct any experiment (warning: it does not perform that well due to lack of data)
-- Can create your old model using unet.py
+- Can create your own model using unet.py
 
 ## Links
 - Credits:
