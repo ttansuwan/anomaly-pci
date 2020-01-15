@@ -1,4 +1,4 @@
-# Anomaly detection on PCI board using segmentation network
+# Anomaly detection on PCB using segmentation network
 A prototype created to detect anomaly on a PCI board using Efficient network with UNET architecture. 
 
 ## Installing / Getting started
